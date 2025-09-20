@@ -1,3 +1,4 @@
+
 # The Happiness Habit 🌟
 
 A web application that helps users track and celebrate their daily happy memories through an interactive calendar interface and SMS messaging system powered by Twilio.
@@ -62,3 +63,4 @@ Built with Python Flask and includes dependencies for Twilio SMS integration, we
 ## 🌱 Future Potential
 
 The project provides a foundation for expanding into features like user authentication, persistent data storage, analytics dashboards, and mobile applications. The modular structure makes it easy to extend and customize for different use cases.
+
